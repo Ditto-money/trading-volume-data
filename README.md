@@ -9,6 +9,6 @@ Repository for publishing data from DITTO trading competitions.
 - Total DITTO volume:
 - Total USD volume (est): $5.5m
 
-[Results](competition_1/results.csv)
-[Raw data](competition_1/raw/)
+- [Results (only users with at least 500 DITTO volume)](competition_1/results.csv)
+- [Raw volume data](competition_1/raw/)
 
