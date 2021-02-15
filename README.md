@@ -14,7 +14,7 @@ Repository for publishing data from DITTO trading competitions.
 - [Results (only users with at least 500 DITTO volume)](competition_1/results.csv)
 - [Raw data](competition_1/raw/)
 
-## [Competition 2]((competition_2/)
+## [Competition 2](competition_2/)
 
 - Start block: 4831150
 - End block: *N/A*
