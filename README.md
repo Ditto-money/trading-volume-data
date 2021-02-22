@@ -17,7 +17,7 @@ Repository for publishing data from DITTO trading competitions.
 ## [Competition 2](competition2/)
 
 - Start block: 4831150
-- End block: *N/A*
+- End block: 5119150
 - Total volume: *N/A*
 - Total USD volume (est): *N/A*
 - Number of users who traded during the competition: *N/A*
