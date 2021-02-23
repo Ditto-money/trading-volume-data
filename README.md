@@ -20,6 +20,6 @@ Repository for publishing data from DITTO trading competitions.
 - Total volume: 32,072,110.68 DITTO
 - Total USD volume (est): $65m
 - Number of users who traded during the competition: 4207
-- Number of users who traded 500 DITTO or more:1445
-- [Results (only users with at least 500 DITTO volume)](competition_2/results.csv)
+- Number of users who traded 1,000 DITTO or more: 1445
+- [Results (only users with at least 1,000 DITTO volume)](competition_2/results.csv)
 - [Raw data](competition_2/raw/)
