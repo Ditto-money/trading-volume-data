@@ -22,4 +22,4 @@ Repository for publishing data from DITTO trading competitions.
 - Number of users who traded during the competition: 4207
 - Number of users who traded 1,000 DITTO or more: 1445
 - [Results (only users with at least 1,000 DITTO volume)](competition_2/results.csv)
-- [Raw data](competition_2/)
+- [Raw data](competition2/)
